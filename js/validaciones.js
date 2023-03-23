@@ -53,12 +53,12 @@ const mensajesError= {
     
     ciudad:{
         valueMissing: "Este campo no puede estar vacio",
-        patternMismatch: "La ciudad debe de contener entre 10 y 40 caracteres"
+        patternMismatch: "La ciudad debe de contener entre 4 y 30 caracteres"
     },  
     
     estado:{
         valueMissing: "Este campo no puede estar vacio",
-        patternMismatch: "El estado debe de contener entre 10 y 40 caracteres"
+        patternMismatch: "El estado debe de contener entre 4 y 30 caracteres"
     },
 }
 
